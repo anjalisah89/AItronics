@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![ui](https://github.com/uno4ce/AItronics/assets/115478181/8996c3fc-8740-4143-a6d6-36ccb46f53a9)
+
+[Uploading report.pptx…]()
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
